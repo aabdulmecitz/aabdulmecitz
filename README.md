@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/3osxY9kuM2NGUfvThe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-alphabet-font-3osxY9kuM2NGUfvThe">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Ahmet Abdülmecit Özkaya</h1>
 <h3 align="center">Surfing on codes from Türkiye</h3>
 
