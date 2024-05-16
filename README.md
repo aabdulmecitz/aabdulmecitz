@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJzb2Vmd2FvbTRhZHF0ZDFhN3ZsM3VodnF5enBiN3Z6bXY1dnJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="48" height="27"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJzb2Vmd2FvbTRhZHF0ZDFhN3ZsM3VodnF5enBiN3Z6bXY1dnJ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="480" height="270"/>
 
 <h1 align="center">Hi 👋, I'm Ahmet Abdülmecit Özkaya</h1>
 <h3 align="center">Surfing on codes from Türkiye</h3>
