@@ -5,58 +5,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Abdülmecit Özkaya</h1>
 <h3 align="center">Surfing on codes from Türkiye</h3>
 
-<h1 class="typewriter" id="typewriter"></h1>
-
-<script>
-  const typewriter = document.getElementById("typewriter");
-  const text = "Your Name Here";
-  let index = 0;
-
-  function type() {
-    if (index < text.length) {
-      typewriter.textContent += text.charAt(index);
-      index++;
-      setTimeout(type, 100);
-    }
-  }
-
-  type();
-</script>
-
-<style>
-  .typewriter {
-    border-right: 0.15em solid black;
-    font-family: monospace;
-    font-size: 2em;
-    overflow: hidden;
-    white-space: nowrap;
-    width: 15em;
-    animation: typing 3.5s steps(40, end), blink-caret 1s step-end infinite;
-  }
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    99.9% {
-      border-right: 0.15em solid black;
-    }
-    to {
-      width: 15em;
-    }
-  }
-
-  @keyframes blink-caret {
-    from,
-    to {
-      border-color: transparent;
-    }
-    50% {
-      border-color: black;
-    }
-  }
-</style>
-
 # 💫 About Me:
 I'm currently working on my own projects like Vizitify, CC Asistant Telegram Bot.
 
