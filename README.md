@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmet Abdülmecit Özkaya</h1>
-<h3 align="center">Surfing on codes from Türkiye</h3>
+<h3 align="center">Code, Learn, Innovate: Building Tomorrow's Solutions Today!</h3>
 
 # 💫 About Me:
-I'm currently working on my own projects like Vizitify, CC Asistant Telegram Bot.
+Hello! I'm Ahmet Abdülmecit Özkaya, currently undergoing main training at 42, passionate about software development. I have experience in mobile app development with Flutter and enjoy coding algorithms in C. Additionally, I create Telegram bots using Node.js. On my GitHub account, I share projects related to these areas and document my learning journey. As a software developer driven by passion for technology and a constant desire to learn, I invite you to check out my work on GitHub and provide your feedback. Here's to coding-filled days for everyone!
 
+I'm currently working on my own projects like Vizitify, CC Asistant Telegram Bot.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aabdulmecitz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aabdulmecitz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetabdulmecitozkaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aabdulmecitz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aabdulmecitz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Ancient-Attention371) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aabdulmecitz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aabdulmecitz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aabdulmecitz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aabdulmecitozkaya) 
