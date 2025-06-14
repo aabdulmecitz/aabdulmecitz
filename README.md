@@ -27,7 +27,9 @@ I'm currently working on my own projects like Vizitify, CC Asistant Telegram Bot
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aabdulmecitz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aabdulmecitz&limit=5&theme=dark&combine_all_yearly_contributions=true" width="450"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aabdulmecitz&icon=0&color=5)](https://visitcount.itsvg.in)
