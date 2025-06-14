@@ -32,7 +32,17 @@ I'm currently working on my own projects like Vizitify, CC Asistant Telegram Bot
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aabdulmecitz&icon=0&color=5)](https://visitcount.itsvg.in)
+
+## 🧩 Fun Section
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23fff" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aabdulmecitz&style=flat-square&color=blue" width="120"/>
+</p>
+
+---
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aabdulmecitz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aabdulmecitz) 
